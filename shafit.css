@@ -1,0 +1,30 @@
+body {
+  background-color: #8A6742;
+  font-family:"Single Stroke";
+  color: black;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke: 3px black;
+}
+h1 {
+  color: grey;
+   font-family:"Single Stroke";
+}
+h3 {
+  color: grey;
+   font-family:"Single Stroke";
+}
+p {
+  color: black;
+  font-family:"Single Stroke";
+}
+table
+ {
+  background-color: black;
+  color: white;
+  font-family:"Single Stroke";
+}
+td
+ {
+  color: white;
+  font-family:"Single Stroke";
+}
